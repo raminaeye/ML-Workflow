@@ -1,0 +1,28 @@
+# Jupyter checkpoints and OS metadata
+.ipynb_checkpoints/
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Artifacts generated while running the notebooks (datasets, caches, manifests)
+cifar.tar.gz
+cifar-100-python/
+train/
+test/
+../data/
+../cache/
+*.lst
+hello_blaze_train
+hello_blaze_validation
+music_instruments_reviews.txt
+train.csv
+validation.csv
+test.csv
+code.zip
+lambda_function.py
+xgboost_process_script.py
+HelloBlazePreprocess.py
+response.json
+captured_data/
